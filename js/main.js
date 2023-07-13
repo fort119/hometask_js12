@@ -1,5 +1,5 @@
-let number = prompt("enter number");
-let power = prompt("enter power");
+let number = prompt("Введіть число");
+let power = prompt("Введіть ступінь");
 
 function pow(num, degree) {
   if (degree != 1) {
